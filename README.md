@@ -32,7 +32,7 @@ It serves as a great starting point for facial analytics applications like smart
 ---
 
 ## 📁 Project Structure
-Image-Gender-Prediction-Age-Estimation/
+- Image-Gender-Prediction-Age-Estimation/
 │
 ├── age_deploy.prototxt
 ├── age_net.caffemodel
