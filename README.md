@@ -33,14 +33,14 @@ It serves as a great starting point for facial analytics applications like smart
 
 ## 📁 Project Structure
 - Image-Gender-Prediction-Age-Estimation/
-│
-├── age_deploy.prototxt
-├── age_net.caffemodel
-├── gender_deploy.prototxt
-├── gender_net.caffemodel
-├── example_image.jpg
-├── predict.py
-└── README.md
+- │
+- ├── age_deploy.prototxt
+- ├── age_net.caffemodel
+- ├── gender_deploy.prototxt
+- ├── gender_net.caffemodel
+- ├── example_image.jpg
+- ├── predict.py
+- └── README.md
 
 ---
 
